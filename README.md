@@ -23,7 +23,8 @@ Ministry of Defence
 
 
 ## Proposed Solution / Architecture Diagram
-![Screenshot 2025-02-26 074228](https://github.com/user-attachments/assets/02415ad1-2771-4bf7-9a2e-ff890737533f)
+![Screenshot 2025-03-02 122209](https://github.com/user-attachments/assets/3393dccc-29bb-44b3-ba94-688936152011)
+
 For Alumni:
 
 Networking: Connect with fellow alumni, find mentors, and build professional relationships.
